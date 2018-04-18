@@ -1,4 +1,5 @@
 roaring [![Build Status](https://travis-ci.org/RoaringBitmap/roaring.png)](https://travis-ci.org/RoaringBitmap/roaring) [![Coverage Status](https://coveralls.io/repos/github/RoaringBitmap/roaring/badge.svg?branch=master)](https://coveralls.io/github/RoaringBitmap/roaring?branch=master) [![GoDoc](https://godoc.org/github.com/RoaringBitmap/roaring?status.svg)](https://godoc.org/github.com/RoaringBitmap/roaring) [![Go Report Card](https://goreportcard.com/badge/RoaringBitmap/roaring)](https://goreportcard.com/report/github.com/RoaringBitmap/roaring)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaciej%2Froaring.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaciej%2Froaring?ref=badge_shield)
 =============
 
 This is a go version of the Roaring bitmap data structure. 
@@ -244,3 +245,7 @@ The two versions were written independently.
 ### Mailing list/discussion group
 
 https://groups.google.com/forum/#!forum/roaring-bitmaps
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaciej%2Froaring.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaciej%2Froaring?ref=badge_large)
